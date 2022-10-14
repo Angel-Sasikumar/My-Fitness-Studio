@@ -1,0 +1,200 @@
+<html>
+    <head>
+<meta charset="UTF-8">
+	 <meta http-equip="X-UA-Compatible" content="IE=edge">
+	 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	 <link rel="stylesheet" href="style.css">
+     <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap' rel="stylesheet">
+	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+     <script src="https://kit.fontawesome.com/0885571a89.js" crossorigin="anonymous"></script>
+        <title>Nearest Angel's</title>
+     </head>
+<style>
+*
+{
+   margin: 0; 
+   padding: 0;
+}
+.container
+{
+    width: 100%;
+    height: 100%;
+    padding-left: 2%;
+    padding-right: 8%;
+    box-sizing: border-box;
+}
+.header
+{
+    height: 15%;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+}
+.nav
+{
+    text-align: center;
+    flex: 1;
+}
+.nav a
+{
+    padding: 5px 15px ;
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.nav a:hover
+{
+    color: white;
+    background-color: black;
+    
+}
+.btn
+{
+    cursor: pointer;
+    color: black;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 5px 20px;
+    border: 1px solid black;
+    background: transparent;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    margin: 40px 5px;
+    border-radius: 15px;
+}
+#grid
+{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+padding-left:30px;
+text-align:center;
+}
+#b
+{
+width:450px;
+height:450px;
+float:right;
+margin-right:15px;
+margin-left:30px;
+border:2px solid red;
+}
+#contant
+{
+width: 700px;
+height: 700px;
+border: 2px solid white;
+background-color: white;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+}
+#content h2
+{
+font-size: 35px;
+}
+p,li
+{ 
+Font-size:20px;
+text-align:left;
+}
+#content p
+{
+font-size: 20px;
+color: black;
+text-align: start; 
+}
+</style>
+<body>
+    <div class="container">
+    <div class="header">
+        <img src="https://www.pngall.com/wp-content/uploads/2018/04/Gym-Free-Download-PNG-180x180.png" width="70" height="50">
+        <div class="nav">
+<a href="My Gym.html">Home</a>
+            <a href="My Gym Packages.html">Packages</a>
+            <a href="My Gym Gallery.html">Gallery</a>
+            <a href="My Gym About Us.html">About Us</a> 
+<a href="Gregistration.html">Register</a>
+</div>
+<button class="btn"><a href="My Gym Login.html">LOGIN</a></button>
+</div>
+<br>
+
+<h3>About us</h3>
+<p>
+The 1st Angel's Fitness centre was opened in Anna Nagar, Chennai in 2007. in less than 10 years, with 30 centers, Angel's Fitness is the largest women only fitness chain in india.<br>
+When we opened our first FitnessOne (Unisex) centre in Chennai around 2004, we felt that there has to be a place in every city with an environment that not only makes people to feel safe, but also comfortable during the workout. Our focus is only fitness and our
+mission is – to be the preferred choice of Gym that offers a clean and safe place to workout with range of high standard equipment and qualified fitness experts.<br><br>
+</p>
+<h3>Our Mission</h3>
+<p>
+<b><i>“a safe place to workout for women”</b></i>
+First Angel's Fitness was opened in 2006 at Anna Nagar, Chennai. It was an instant hit among women community in that area. It looked like people were waiting for such women-only centre.  More than 40,000+ women have used our facility across all 50+ centres till date.<br><br>
+</p>
+<h3>Welcome to Angel's - India's Largest and Most Comprehensive all-women fitness chain.</h3>
+<p>
+Your first step towards fitness is to visit India`s largest and most comprehensive all-women fitness studio chain. Customised and scientific fitness plans. Nutritionists and personal trainers who can truly guide and motivate you. Visit the internationally styled Angel's Fitness Centre to begin a rewarding journey towards healthy living.<br><br>
+</p>
+<h3>FACILITIES</h3>
+<p>
+Women's wellness and weight loss is the key in Angel's studio which is all women gym. All Angel's studios are fully equipped for resistance training on a circuit of strength training machines, and cardio stations. Advanced equipment at Angel's studios with variable resistance levels, ensures that members get the most out of their workout. Expert nutritionists and trainers help members set and achieve personal fitness goals. Proprietary training plans like the 'Angel's Express', demonstrate our authority in delivering fitness solutions<br>
+All our fitness studios are designed to ensure best practice norms are met in terms of floor space per member, and wait-time for equipment use.<br><br>
+</p>
+<h3>GROUP CLASSES</h3>
+<p>
+Angel's is all about having fun the healthy way<br><br>
+</p>
+<h3>STEP AEROBICS</h3>
+<p>
+A complete step training program that delivers efficiently high energy results and burns calories. It works beautifully on the lower part of the body.<br><br>
+</p>
+<h3>GET ON BOARD THE Angel's EXPRESS</h3>
+<p>
+The proprietary maximum strength & aerobic 30 minute circuit training work out. The Angel's 30 minutes express workout delivers amazing results for a commitment of just 30 minutes a day!<br>
+Send an email to info@Angelsfitness.in for more details<br><br>
+</p>
+<h3></h3>
+<p>
+</p>
+<h3>Our Goal</h3>
+<p>
+To give women the confidence they need to succeed in what they do. To experience our members achieve their goals and listen to their success stories inspire us to continue offering World-class fitness programs to women across India.<br>
+Angel's Fitness has helped thousands of women in India to get healthier and stronger with its fitness solutions.<br>
+At the core of the Angel's Fitness concept is a 30-minute circuit training catered to especially to the needs of the women. This concept is complemented with personal attention to every member. In just 30 minutes, the women work every major muscle group through a proven program of strength training, cardio and stretching<br>
+The Angel's circuit coach, always keep the work out fresh with variety of exercises. The Angel's coach will motivate and offer support & advice to keep the person on the right track. At Angel's the Fit body is within reach.<br><br>
+</p>
+
+<h3>Opportunity</h3>
+<p>
+Angel's Fitness is simple yet effective training concept which is highly scalable: Small investments, big results. The model is an excellent franchise model, where the franchise owners can shape their life and careers.<br>
+Angel's Fitness offers ideal starting conditions: The fitness center requires just as little floor space as it requires initial capital. It is the personal attention given to each member that is of the greatest priority – only those who feel comfortable will exercise. A combination of highly profitable concept and the personal touch gives entrepreneurs in localities with just over 10000 people density.<br>
+Sedentary lifestyles, driven by modern work culture and technological convenience, has made India into a global epicentre of poor health and fitness. Ironically, the country that gave the world Yoga and Spirituality is embroiled today in sloth and reckless consumerism. The youth are no better - internet, television and video games have all but replaced outdoor activity. Driven by our love for fried food, sugar overloads and a host of other dietary disasters the situation only becomes more scary. We are sitting on a ticking time bomb.<br>
+India is emerging as the diabetes capital of the world. It is expected that as much as 40% of our population will be a diabetic at the current rate. We also lead the world in cardiac ailments, and other lifestyle diseases. What is scarier is that the average age of those affected are falling at every census. Studies reveal that India's disease burden is causing it to lose billions of dollars in treatment and loss of productivity.<br>
+Booming Preventive healthcare sector<br>
+150+ centres including corporates & residential projects pan India within 10 years<br>
+Proven business model. ROI of 2 - 3 years<br>
+INR 3500 crore industry growing at 25% annually<br>
+There are no shortcuts to fitness. You need expert guidance, personal commitment, and a plan that will help you meet your personal goals. Being a successful franchisee in the fitness industry is much the same.<br>
+The FitnessOne Franchisee Relationship Programee offers you opportunities that span multiple product and service lines, as well as models relevant for small, medium and large formats. FitnessOne will carefully select franchisees who share our long term commitment, and together, revolutionize the fitness industry in India.<br>
+With over 10 years of real-time experiencein the business, we know what it takes to set up scientific fitness centre and run them professionally.<br><br>
+</p>
+<h3>What should you be looking for as a Franchisee in the Fitness Industry?</h3>
+<p>
+<ul>
+<li>Guaranteed service levels of the highest order for your customers</li>
+<li>Instant brand recognition and positive associations</li>
+<li>Support in managing your centre</li>
+<li>Proven business model</li>
+<li>Dynamic sales & marketing systems</li>
+<li>Successful Trim & Personal Training Programs</li>
+</ul>
+</p>
+<br><br>
+</body>
+<footer>
+Copyright © 2022 Angel'sfitness.in all rights reserved by Fitness One Group India Limited
+</footer>
+</html>

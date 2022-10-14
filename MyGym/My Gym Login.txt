@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>
+My Login
+</title>
+<style>
+body
+{
+background-image:url("https://www.okcasa.net/wp-content/uploads/2020/03/crossfit.png");
+background-repeat:no-repeat;
+background-size:cover;
+background-position:cover;
+background-attachment:scroll;
+}
+div.relative
+{
+position:relative;
+top:400px;
+bottom:200px;
+left:350px;
+border:3px none;
+padding:2px 5px;
+border-radius:10px;
+text-align:center;
+font-size:25px;
+font-weight:bold;
+color:white;
+}
+input,button
+{
+height:25px;
+width:200px;
+font-style:italic;
+border-radius:10px;
+border:2px solid blue;
+background-color:beige;
+}
+a
+{
+text-decoration:none;
+color:white;
+}
+button:hover
+{
+background-color:black;
+color:white;
+}
+</style>
+</head>
+<body>
+<script>
+function validationform(){
+var name=document.myform.name.value;
+var password=document.myform.password.value;
+                
+if(name=="Angel"&& password=="123456")
+{
+window.location.href="";
+}  
+else
+{
+alert("Sorry..! You are not a Valid user");
+}
+}
+</script>
+<div class="relative">
+<form name="myform" method="post" >
+Username : <input  type="text" name="name"required><br><br>
+Password : <input type="password" name="password" required ><br><br>
+<button type="button" onclick="validationform()"><b>Submit</b></button>
+</form>
+</div>
+
+</body>
+</html>

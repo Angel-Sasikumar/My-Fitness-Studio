@@ -1,0 +1,282 @@
+<html>
+    <head>
+<meta charset="UTF-8">
+	 <meta http-equip="X-UA-Compatible" content="IE=edge">
+	 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	 <link rel="stylesheet" href="style.css">
+     <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap' rel="stylesheet">
+	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+     <script src="https://kit.fontawesome.com/0885571a89.js" crossorigin="anonymous"></script>
+        <title>Terms of Services</title>
+     </head>
+<style>
+*
+{
+   margin: 0; 
+   padding: 0;
+}
+.container
+{
+    width: 100%;
+    height: 100%;
+    padding-left: 2%;
+    padding-right: 8%;
+    box-sizing: border-box;
+}
+.header
+{
+    height: 15%;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+}
+.nav
+{
+    text-align: center;
+    flex: 1;
+}
+.nav a
+{
+    padding: 5px 15px ;
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.nav a:hover
+{
+    color: white;
+    background-color: black;
+    
+}
+.btn
+{
+    cursor: pointer;
+    color: black;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 5px 20px;
+    border: 1px solid black;
+    background: transparent;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    margin: 40px 5px;
+    border-radius: 15px;
+}
+#grid
+{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+padding-left:30px;
+text-align:center;
+}
+#b
+{
+width:450px;
+height:450px;
+float:right;
+margin-right:15px;
+margin-left:30px;
+border:2px solid red;
+}
+#contant
+{
+width: 700px;
+height: 700px;
+border: 2px solid white;
+background-color: white;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+}
+#content h2
+{
+font-size: 35px;
+}
+p,li
+{ 
+Font-size:20px;
+text-align:left;
+}
+#content p
+{
+font-size: 20px;
+color: black;
+text-align: start; 
+}
+</style>
+<body>
+    <div class="container">
+    <div class="header">
+        <img src="https://www.pngall.com/wp-content/uploads/2018/04/Gym-Free-Download-PNG-180x180.png" width="70" height="50">
+        <div class="nav">
+            <a href="My Gym.html">Home</a>
+            <a href="My Gym Packages.html">Packages</a>
+            <a href="My Gym Gallery.html">Gallery</a>
+            <a href="My Gym About Us.html">About Us</a>  
+<a href="My Gym Registration.html">Register</a>
+</div>
+<button class="btn"><a href="My Gym Login.html">LOGIN</a></button>
+</div>
+<br>
+<h3>1. THE TERMS</h3>
+<p>
+These terms and conditions of use ("Terms of Use" or “Terms”) of the website www.pinkfitness.in and instances thereof (“Website”) between FitnessOne Group India Limited, a company incorporated under the Companies Act, 1956, (“Company” or “FitnessOne” and its successors and assigns) and the users of the Website ("You" or "Your" or "Yourself" or "User") describe the terms on which the Company offers You access to the Website. PLEASE READ THE TERMS CAREFULLY BEFORE USING OR ACCESSING ANY MATERIAL, INFORMATION OR SERVICES THROUGH THE WEBSITE. YOUR USE OF THE WEBSITE OR THE SERVICES PROVIDED BY THE WEBSITE SHALL SIGNIFY YOUR ACCEPTANCE OF THE TERMS AND YOUR AGREEMENT TO BE LEGALLY BOUND BY THE SAME.<br>
+</p><br>
+
+<h3>2. GENERAL</h3>
+<p>
+2.1. The Website is an Internet based portal owned and operated by the Company. Use of the Website is offered to You subject to acceptance of all the terms, conditions and notices contained in the Terms, along with any amendments made by the Company at its sole discretion and posted on the Website, including by way of imposing any charge for access to or use of a Service (defined below). 
+By,<br> 
+(i) using this Website or any facility or service provided via this Website in any way; <br>
+(ii) merely browsing the Website, You agree that You have read, understood and agreed to be bound by these Terms and the Privacy Policy available at the homepage, www.Angel'sfitness.in. <br>
+2.2. Multiple free coupons not allowed from single person. <br>
+2.3. The Company shall not be required to notify You of any changes made to the Terms. The revised Terms shall be made available on the Website. Your use of the Website is subject to the most current version of the Terms of Use made available on the Website at the time of such use. You are requested to regularly visit the home page www.Angel'sfitness.in to view the most current Terms. You can determine when the Company last modified the Terms by referring to the "Last Updated" legend above. It shall be Your responsibility to check the Terms periodically for changes. The Company may require You to provide Your consent to the updated Terms in a specified manner before any further use of the Website and the Services. If no such separate consent is sought, Your continued use of the Website will constitute Your acceptance of such changes.<br>
+</p><br>
+
+<h3>3. SERVICES</h3>
+<p>
+3.1. The Company offers a platform that facilitates sale and purchase of merchandise and services (“Services”) by various third party vendors/service providers (“Vendors”) to users. The purchase of products and services shall be governed by the Terms of Offer For Sale ("Terms of Offer For Sale").<br>
+3.2 Offers cannot be clubbed with any other & multiple offers. Workout pass, free vouchers and new offer packages only for new members. Renewal package will be separately available or given with personalised coupon codes.<br>
+</p><br>
+
+<h3>4. ELIGIBILITY TO USE</h3>
+<p>
+4.1. Services are not available to minors. In India, persons under 18 years of age are minors. It shall be your responsibility to ensure that you are eligible to enter into a contract if You are resident outside India. If you do not conform to the above qualification, You are not permitted to avail of the Services. You represent that You are of legal age to form a binding contract and are not a person barred from receiving Services under the laws as applicable in India.<br>
+4.2. The Company reserves the right to refuse access to use the Services offered at the Website to new Users or to terminate access granted to existing Users at any time for any reason or without providing any reasons.<br>
+</p><br>
+
+<h3>5. USER ACCOUNT, PASSWORD, AND SECURITY</h3>
+<p>
+5.1. The Company may make the Services available to You only if You have provided FitnessOne certain required User information and / or created an account ("Account") through an FitnessOne ID and password or other log-in ID and password (collectively, the "Account Information"). The Services may also be subject to procedures for use of the Website, Terms of Offer For Sale, uploaded guide, rules, additional terms of service, or other disclaimer & notices, if any ("Additional Terms"). If there is any conflict between the Terms of Use and the Additional Terms, the Additional Terms shall take precedence in relation to that service.<br>
+5.2. You will be responsible for maintaining the confidentiality of the Account Information, and are fully responsible for all activities that occur under Your Account. You agree to (a) immediately notify FitnessOne of any unauthorized use of Your Account Information or any other breach of security, and (b) ensure that You exit from Your Account at the end of each session. FitnessOne cannot and will not be liable for any loss or damage arising from Your failure to comply with these conditions. You may be held liable for losses incurred by FitnessOne or any other user of or visitor to the Website due to authorized or unauthorized use of Your Account as a result of Your failure in keeping Your Account Information secure and confidential.<br>
+5.3. You shall ensure that the Account Information provided by You in the Website's registration form is complete, accurate and up-to-date. Use of another user's Account Information for availing the Services is expressly prohibited<br>
+5.4. If You provide any information that is untrue, inaccurate, not current or incomplete (or becomes untrue, inaccurate, not current or incomplete), or FitnessOne has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, FitnessOne has the right to suspend or terminate Your Account and refuse any and all current or future use of the Website (or any portion thereof).<br>
+</p><br>
+
+<h3>6. PRICING INFORMATION</h3>
+<p>
+6.1. FitnessOne strives to cause Vendors to make available products and services at the best possible prices and terms. The pricing details for purchase of products and services are detailed under the Terms of Offer For Sale.<br>
+6.2. You agree to provide correct and accurate credit / debit card details to the approved payment gateway for availing Services. You shall not use the credit / debit card which is not lawfully owned by You, i.e. in any transaction, You must use Your own credit / debit card. The information provided by You will not be utilized or shared with any third party unless required in relation to fraud verifications or by law, regulation or court order. You will be solely responsible for the security and confidentiality of Your credit / debit card details. FitnessOne expressly disclaims all liabilities that may arise as a consequence of any unauthorized use of Your credit / debit card.<br>
+6.3. FitnessOne shall be under no liability whatsoever in respect of any loss or damage arising directly or indirectly out of the decof authorization for any transaction for any reason whatsoever.<br>
+</p><br>
+
+<h3>7. USER OBLIGATIONS</h3>
+<p>
+7.1. Subject to compliance with the Terms of Use, FitnessOne grants You a non-exclusive, limited privilege to access and use this Website.<br>
+7.2. You agree to use the Services, Website and the materials provided therein only for purposes that are permitted by: (a) the Terms; and (b) any applicable law, regulation or generally accepted practices or guide in the relevant jurisdictions.<br>
+7.3. You agree to adhere to all limitations on dissemination, use and reproduction of any materials (such as the product catalogues) that You will access the Website in accordance with the Terms and particularly Section 8.<br>
+7.4. You agree not to access (or attempt to access) the Website and the materials or Services by any means other than through the interface that is provided by FitnessOne. You shall not use any deep-link, robot, spider or other automatic device, program, algorithm or methodology, or any similar or equivalent manual process, to access, acquire, copy or monitor any portion of the Website or Content (as defined below), or in any way reproduce or circumvent the navigational structure or presentation of the Website, materials or any Content, to obtain or attempt to obtain any materials, documents or information through any means not specifically made available through the Website.<br>
+7.5. By accessing or using the Website or Services, You may be exposed to content from other users that You may consider offensive, indecent or otherwise objectionable. FitnessOne disclaims all liabilities arising in relation to such offensive content on the Website. Further, You may report such offensive content in the manner prescribed below<br>
+7.6. If the Website allows You to post and upload any material on the Website, You hereby undertake to ensure that such material is not offensive and is in accordance with applicable laws. Further, You undertake not to: Defame, abuse, harass, threaten or otherwise violate the legal rights of others; Impersonate any person or entity, or falsely state or otherwise misrepresent Your affiliation with a person or entity; Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topic, name, material or information through any bookmark, tag or keyword; Upload files that contain software or other material protected by applicable intellectual property laws unless You own or control the rights thereto or have received all necessary consents; Upload or distribute files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of the Website or another's computer; Engage in any activity that interferes with or disrupts access to the Website or the Services (or the servers and networks which are connected to the Website);Attempt to gain unauthorized access to any portion or feature of the Website, any other systems or networks connected to the Website, to any FitnessOne server, or to any of the Services offered on or through the Website, by any illegitimate means (including such as hacking and password mining);Probe, scan or test the vulnerability of the Website or any network connected to the Website, nor breach the security or authentication measures on the Website or any network connected to the Website. You may not reverse look-up, trace or seek to trace any information on any other user, of or visitor to, the Website, or any other customer of FitnessOne, including any FitnessOne Account not owned by You, to its source, or exploit the Website or Service or information made available or offered by or through the Website, in any way whether or not the purpose is to reveal any information, including but not limited to personal identification information; Disrupt or interfere with the security of, or otherwise cause harm to, the Website, systems resources, accounts, passwords, servers or networks connected to or accessible through the Websites or any affiliated or linked sites; Collect or store data about other users. Use any device or software to interfere or attempt to interfere with the proper working of the Website or any transaction being conducted on the Website, or with any other person's use of the Website; Use the Website or any material or Content for any purpose that is unlawful or prohibited by the Terms, or to solicit the performance of any illegal activity or other activity which infringes the rights of FitnessOne or other third parties; Conduct or forward surveys, contests, pyramid schemes or chain letters; Download any file posted by another user of a Service that you know, or reasonably should know, cannot be legally distributed in such manner; Falsify or delete any author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded; Violate any code of conduct or other guide, which may be applicable to the Service; Violate any applicable laws or regulations for the time being in force within or outside India; Violate the Terms including but not limited to any applicable Additional Terms; and Reverse engineer, modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information or software obtained from the Website.<br>
+7.7. You agree that You are solely responsible to FitnessOne and to any third party for any breach of Your obligations under the Terms and for the consequences (including any loss or damage which FitnessOne or its affiliates or its vendors may suffer) for any such breach.<br>
+7.8. You agree and acknowledge that FitnessOne is not the seller of the products and services and FitnessOne shall in no manner be deemed to be the seller of the products or services. FitnessOne is only facilitating purchase of the products or services by You from Vendors. FitnessOne does not guarantee or provide any warranties relating to the Vendors or the products / services offered by them. The Website is a market-place where buyers and sellers of goods and services may transact.<br>
+</p><br>
+
+<h3>8. USE OF MATERIALS</h3>
+<p>
+8.1. Except as expressly indicated to the contrary herein or in any applicable Additional Terms, FitnessOne hereby grants You a non-exclusive, freely revocable (upon notice from FitnessOne), non-transferable access to view, download and print product catalogues or any other materials available on the Website, subject to the following conditions:You may access and use the materials solely for personal, informational, and internal purposes, in accordance with the Terms;You may not modify or alter product catalogues or any other materials available on the Website; andYou may not remove any text, copyright or other proprietary notices contained in the product catalogues or any other materials available on the Website.<br>
+8.2. The rights granted to You as specified above are not applicable to the design, layout or look and feel of the Website. Such elements of the Website are protected by intellectual property rights and may not be copied or imitated in whole or in part. The product catalogues or any other materials available on the Website may be copied or retransmitted unless expressly prohibited by FitnessOne.<br>
+8.3. Any software that is available on the Website is the property of FitnessOne or its vendors. You may not use, download or install any software available at the Website, unless otherwise expressly permitted by FitnessOne.<br>
+</p><br>
+
+<h3>9. USAGE CONDUCT</h3>
+<p>
+9.1. You shall solely be responsible for maintaining the necessary computer equipments and Internet connections that may be required to access, use and transact on the Website.<br>
+9.2. You shall use this Website for reasonable and lawful purposes only, and shall not indulge in any activity that is not envisaged through the Website.<br>
+9.3. FitnessOne shall be under no liability whatsoever in respect of any loss or damage arising directly or indirectly out of the decoy authorization for any transaction for any reason whatsoever.
+</p><br>
+
+<h3>10. INTELLECTUAL PROPERTY RIGHTS</h3>
+<p>
+10.1. The Website and the processes, and their selection and arrangement, including but not limited to all text, graphics, user interfaces, visual interfaces, sounds and music (if any), artwork and computer code (collectively, the "Content") on the Website is owned and controlled by FitnessOne and the design, structure, selection, coordination, expression, look and feel and arrangement of such Content is protected by copyright, patent and trademark laws, and various other intellectual property rights.<br>
+10.2. The trademarks, logos and service marks displayed on the Website ("Marks") are the property of FitnessOne or other third parties. You are not permitted to use the Marks without the prior consent of FitnessOne or the third party that owns the Marks.<br>
+10.3. FitnessOne owns all intellectual property rights to the trademark "FitnessOne" and variants thereof, and the domain name, including, without limitation, any and all rights, title and interest in and to copyright, related rights, patents, utility models, designs, know-how, trade secrets and inventions (patent pending), goodwill, source code, meta tags, databases, text, content, graphics, icons, and hyperlinks.<br>
+10.4. Except as expressly provided herein, You acknowledge and agree that You shall not copy, republish, post, display, translate, transmit, reproduce or distribute any Content through any medium without obtaining the necessary authorization from FitnessOne or thirty party owner of such Content.<br>
+10.5. The Website makes available general third party information such as, product catalogues, lists of authorized dealers, reports on news, entertainment, technology and features, advertisements including videos, images and photographs of the products and other data from external sources ("Third Party Content"). Similar Third Party Content would also be available to You on the email received by You from FitnessOne. The provision of Third Party Content is for general informational purposes only. You acknowledge that the Third Party Content provided to You is obtained from sources believed to be reliable. FitnessOne does not provide any guarantee with respect to any the Third Party Content and FitnessOne shall not be held liable for any loss suffered by You due to Your reliance on or use of such data.<br>
+</p><br>
+
+<h3>11. DISCLAIMER OF WARRANTIES & LIABILITY YOU EXPRESSLY UNDERSTAND AND AGREE THAT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW:</h3>
+<p>
+11.1. You agree to indemnify, defend and hold harmless FitnessOne from and against any and all losses, liabilities, claims, damages, demands, costs and expenses (including legal fees and disbursements in connection therewith and interest chargeable thereon) asserted against or incurred by FitnessOne that arise out of, result from, or may be payable by virtue of, any breach of any representation, warranty, covenant or agreement made or obligation to be performed by You pursuant to these Supply Terms or any Additional Terms applicable to the purchase of Products.<br>
+11.2. In no event shall FitnessOne, its officers, directors, employees, partners or vendors be liable to You, the Vendor or any third party for any special, incidental, indirect, consequential or punitive damages whatsoever, including those resulting from loss of use, data or profits, whether or not foreseeable or whether or not FitnessOne has been advised of the possibility of such damages, or based on any theory of liability, including breach of contract or warranty, negligence or other tortious action, or any other claim arising out of or in connection with Your purchase of the products and services herein. Notwithstanding anything to contrary, FitnessOne's entire liability to You under this Terms of Offer For Sale or otherwise shall be the refund of the money charged from You, under which the unlikely liability arises.<br>
+11.3. FITNESSONE WILL NOT BE LIABLE FOR ANY LOSS THAT YOU MAY INCUR AS A CONSEQUENCE OF UNAUTHORIZED USE OF YOUR ACCOUNT OR ACCOUNT INFORMATION OR ANY SERVICES OR MATERIALS, EITHER WITH OR WITHOUT YOUR KNOWLEDGE. FITNESSONE ENDEAVORS TO ENSURE THAT ALL THE INFORMATION ON THE WEBSITE IS CORRECT, BUT FITNESSONE DOES NOT PROVIDE ANY WARRANTIES RELATING TO THE QUALITY, ACCURACY OR COMPLETENESS OF ANY DATA, INFORMATION, PRODUCT OR SERVICE. FITNESSONE SHALL NOT BE RESPONSIBLE FOR THE DELAY OR INABILITY TO USE THE WEBSITE OR RELATED FUNCTIONALITIES, THE PROVISION OF OR FAILURE TO PROVIDE FUNCTIONALITIES, OR FOR ANY INFORMATION, SOFTWARE, PRODUCTS, FUNCTIONALITIES AND RELATED GRAPHICS OBTAINED THROUGH THE WEBSITE, OR OTHERWISE ARISING OUT OF THE USE OF THE WEBSITE, WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE. FURTHER, FITNESSONE SHALL NOT BE RESPONSIBLE FOR NON-AVAILABILITY OF THE WEBSITE DURING PERIODIC MAINTENANCE OPERATIONS OR ANY UNPLANNED SUSPENSION OF ACCESS TO THE WEBSITE THAT MAY OCCUR DUE TO TECHNICAL REASONS OR FOR ANY REASON. THE USER UNDERSTANDS AND AGREES THAT ANY MATERIAL OR DATA DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE WEBSITE IS DONE ENTIRELY AT THEIR OWN DISCRETION AND RISK AND THEY WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO THEIR COMPUTER SYSTEMS OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH MATERIAL OR DATA. FITNESSONE IS NOT RESPONSIBLE FOR ANY TYPOGRAPHICAL ERROR LEADING TO ANY INVALIDITY OF ANY KIND. FITNESSONE ACCEPTS NO LIABILITY FOR ANY ERRORS OR OMISSIONS, WITH RESPECT TO ANY INFORMATION PROVIDED TO YOU BY ITSELF OR ON BEHALF OF THIRD PARTIES.<br>
+11.4. FITNESSONE SHALL NOT BE LIABLE FOR ANY THIRD PARTY PRODUCT OR SERVICES. THE ADVERTISEMENTS AVAILABLE ON E-MAIL OR WEBSITE WITH RESPECT TO ANY THIRD PARTY WEBSITE OR THE PRODUCTS AND SERVICES ARE FOR INFORMATION PURPOSE ONLY.<br>
+11.5. NOTWITHSTANDING ANYTHING TO CONTRARY, FITNESSONE'S ENTIRE LIABILITY TO YOU SHALL BE THE REFUND OF THE MONEY CHARGED TO YOU FOR ANY PRODUCT OR SERVICE, IN RELATION TO WHICH UNLIKELY LIABILITY ARISES.<br>
+11.6. IN NO EVENT SHALL FITNESSONE, ITS OFFICERS, DIRECTORS, EMPLOYEES, PARTNERS OR SUPPLIERS BE LIABLE TO YOU FOR ANY <br>
+<ul>
+<li> SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL OR PUNITIVE DAMAGES WHATSOEVER, INCLUDING THOSE RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER OR NOT FORESEEABLE AND WHETHER OR NOT FITNESSONE HAS BEEN ADVISED OF THE POSSIBILITY OF THE SAME, </li>
+<li> BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT OR WARRANTY, NEGLIGENCE OR OTHER TORTIOUS ACTION, </li> 
+<li> ANY OTHER CLAIM ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF OR ACCESS TO THE WEBSITE, SERVICES OR MATERIALS.</li>
+11.7. THE LIMITATIONS AND EXCLUSIONS IN THIS SECTION APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.</li>
+</p><br>
+
+<h3>12. VIOLATION OF THE TERMS OF USE</h3>
+<p>
+12.1. FitnessOne may, in its sole discretion and without prior notice, terminate Your access to the Website if FitnessOne determines that You have violated the Terms or Additional Terms or any other duty owed to FitnessOne. Any violation by You of the Terms will constitute an unlawful and unfair business practice, and will cause irreparable harm to FitnessOne, for which monetary damages is likely to be inadequate, and You consent to FitnessOne obtaining any injunctive or equitable relief that FitnessOne deems necessary or appropriate. These remedies are in addition to any other remedies FitnessOne may have at law or in equity.<br>
+12.2. You agree to indemnify, defend and hold harmless FitnessOne, its affiliate vendors, agents, shareholders, directors and employees from and against any and all losses, liabilities, claims, damages, demands, costs and expenses (including legal fees and disbursements in connection therewith and interest chargeable thereon) asserted against or incurred by FitnessOne that arise out of, result from, or may be payable by virtue of, any breach or non-performance of any representation, warranty, covenant or agreement made or obligation to be performed by You. Further, You agree to hold FitnessOne harmless against any claims made by any third party due to, or arising out of, or in connection with, Your use of the Website, any claim that Your material caused damage to a third party, Your violation of the Terms, or Your violation of the rights of any another person. FitnessOne will also be entitled to recover from You, and You agree to pay, all reasonable attorneys' fees and costs of such action, in addition to any other relief granted to FitnessOne.<br>
+</p><br>
+
+<h3>13. TERMINATION</h3>
+<p>
+13.1. The Terms will continue to apply until terminated by either You or FitnessOne as set forth below. If You want to terminate Your agreement with FitnessOne, You may do so by (i) not accessing the Website<br>
+(ii) closing Your accounts (if any).
+13.2. FitnessOne may at its discretion and at any time with or without notice terminate or suspend the Terms without cause or with cause if:<br>
+<ul>
+<li>You breach any of the provisions of the Terms, the Privacy Policy or any other terms, conditions, or policies that may be applicable to You</li><br>
+<li>FitnessOne is required to do so by law (for example, where the provision of the Services to You is, or becomes, unlawful or pursuant to a request by a regulatory authority)</li><br>
+<li>The provision of the Services to You by FitnessOne is, in FitnessOne's opinion, no longer commercially viable</li><br><p>
+FitnessOne has elected to discontinue, with or without reason, access to the Website, the Services (or any part thereof) either in general or specifically to You<br>
+</ul><p>
+13.3. FitnessOne shall not be liable to You or any third party for any such termination.<br>
+13.4. Termination or suspension shall not affect your liability or obligation arising prior to such termination or suspension.<br>
+</p><br>
+
+<h3>14. GOVERNING LAW </h3>
+<p>
+14.1. The Terms and all transactions entered and the relationship between You and FitnessOne and any mutual claims shall be governed in accordance with the laws of Indiawithout reference to any conflict of laws principles.<br>
+14.2. All claims, differences and disputes arising under or in connection with or in relation hereto the Website, the Terms or any transactions entered into on or through the Website shall be subject to the exclusive jurisdiction of the courts at Chennai Urban District, India and You hereby accede to and accept the jurisdiction of such courts.<br>
+</p><br>
+
+<h3>15. REPORT ABUSE</h3>
+<p>
+In the event You come across any abuse or violation of the Terms or if You become aware of any objectionable content on the Website, please report to info@Angel'sfitness.in.
+</p><br>
+
+<h3>16. PRIVACY POLICY</h3>
+<p>
+You confirm that you have read and fully understand the Privacy Policy of FitnessOne in respect of the Website. You further consent that the terms and contents of such Privacy Policy are acceptable to You.<br>
+</p><br>
+
+<h3>17. NEWSLETTERS AND COMMUNICATIONS</h3>
+<p>
+You hereby expressly agree to receive communications and newsletters from FitnessOne by SMS and e-mails. You can unsubscribe / opt-out from receiving communications and newsletters from FitnessOne at anytime by following the procedure set forth in the Website.<br>
+</p><br>
+
+<h3>18. GENERAL PROVISIONS</h3>
+<p>
+18.1. Notice: All notices from FitnessOne will be served by email to the account designated by you or by general notification on the Website. Any notice to be provided to FitnessOne pursuant to the Terms should be sent to info@Angel'sfitness.in.<br>
+18.2. Assignment: You cannot assign or otherwise transfer the Terms, or any rights hereunder to any third party. FitnessOne's rights under the Terms of Use are freely transferable by FitnessOne to any third parties without the requirement of seeking Your consent.<br>
+18.3. Severability: If a court of competent jurisdiction finds any provision of the Terms, or portion thereof, to be unenforceable, the same shall not affect the provisions of any other portion of the Terms. In any event, such provision shall be enforced to the maximum extent permissible so as to give effect to the intent of the parties as reflected by that provision.<br>
+18.4. Waiver: Any failure by FitnessOne to enforce or exercise any provision of the Terms, or any related right, shall not constitute a waiver of that provision or right.<br>
+18.5. Feedback and Information. Any feedback You provide to this Website shall be deemed to be non-confidential. FitnessOne shall be free to use such information on an unrestricted basis. Further, by submitting the feedback, You represent and warrant that,<br> 
+(i) Your feedback does not contain confidential or proprietary information of You or of third parties<br>
+(ii) FitnessOne is not under any obligation of confidentiality, express or implied, with respect to the feedback<br>
+(iii) You are not entitled to any compensation or reimbursement of any kind from FitnessOne for the feedback under any circumstances.
+18.6.Exactness Not Guaranteed. Sellers on www.pinkfitness.in try their best to deliver products exactly the way they appear on the site. However, the nature and tendency of natural wood based products is that each piece of furniture is unique in its own way. Pinkfitness.in hereby disclaims any guarantees of exactness of the finish or appearance of the final product ordered by the user over and above generally acceptable standards on the same. The quality of any products, services, information, or other material purchased or obtained by you through the Website may not meet your expectations. In the case of any significant material damage to the Product, the customer must send photographic evidence of the damaged product via email to info@propelfitness.in within 7 days of receiving the Product. A representative from Pinkfitness.in will review the evidence, and if it is found valid, Pinkfitness.in will send an email communication to you requesting for a replacement. If the replacement Product is also damaged, and Pinkfitness.in finds the evidence from you valid, then your order will be cancelled and you will be fully refunded via your initial method of payment. In all these cases, arrangements will be made to collect the damaged Product. You agree in this instance, that Pinkfitness.in will make the final judgment on whether a Product has been significantly damaged.
+</p>
+</body>
+<footer>
+Copyright © 2022 Angel'sfitness.in all rights reserved by Fitness One Group India Limited
+</footer>
+</html>
+
+
+
+
+
+
+

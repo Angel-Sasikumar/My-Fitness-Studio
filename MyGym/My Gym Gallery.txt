@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta data-name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+    <title>Gallery</title> 
+</head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    position: relative;
+    min-height: 100vh;
+    max-width: 1500px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.container .images .image-box{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    border-radius: 6px;
+    overflow: hidden;
+}
+.images{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.images .image-box{
+    margin: 8px;
+}
+.images .image-box img{
+    height: 100%;
+    width: 100%;
+    border-radius: 6px;
+    transition: transform 0.2s linear;
+}
+.image-box:hover img{
+    transform: scale(1.05);
+}
+.image-box h6{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.header
+{
+    height: 15%;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+}
+.nav
+{
+    text-align: center;
+    flex: 1;
+}
+.nav a
+{
+    padding: 5px 15px ;
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.nav a:hover
+{
+    color: white;
+    background-color: black;
+    
+}
+.btn
+{
+    cursor: pointer;
+    color: black;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 5px 20px;
+    border: 1px solid black;
+    background: transparent;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    margin: 40px 5px;
+    border-radius: 15px;
+}
+
+
+</style>
+<body>
+    <div class="container">
+
+    <div class="header">
+        <img src="https://www.pngall.com/wp-content/uploads/2018/04/Gym-Free-Download-PNG-180x180.png" width="70" height="50">
+        <div class="nav">
+            <a href="My Gym.html">Home</a>
+            <a href="My Gym Packages.html">Packages</a>
+            <a href="My Gym Gallery.html">Gallery</a>
+            <a href="My Gym About Us.html">About Us</a>
+<a href="Gregistration.html">Register</a> 
+</div>
+<button class="btn"><a href="My Gym Login.html">LOGIN</a></button>
+</div>
+<br><br><br><br>
+        <div class="images">
+
+<div class="image-box">
+<img src="https://c4.wallpaperflare.com/wallpaper/58/891/653/sports-fitness-brunette-girl-wallpaper-preview.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://images.hdqwalls.com/wallpapers/gym-girl.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://wallpaperaccess.com/full/1585149.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://thumbs.dreamstime.com/z/fitness-woman-shaker-gym-drinking-water-athletic-girl-shaped-abdominal-slim-waist-fitness-woman-shaker-gym-118631847.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROVmNLoZ-Y9cq3pk3flkEYhrPLg9AXvbyhDhR5H-3WlT8sAoodhDKBrwlLkrADlKSfmC8&usqp=CAU">
+</div>
+
+<div class="image-box">
+<img src="https://w0.peakpx.com/wallpaper/424/508/HD-wallpaper-sports-fitness-asian-girl-gym-model-woman.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://cutewallpaper.org/23/wallpaper-fitness-girl/114244063.jpg"></div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/736x/0f/d4/6f/0fd46f6c5b5ea6723092032883e51055.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://s2.best-wallpaper.net/wallpaper/2560x1440/1702/Fitness-girl-purple-dress-sweat_2560x1440.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://media.istockphoto.com/photos/sportswoman-exercising-with-battling-ropes-picture-id1147772622?b=1&k=20&m=1147772622&s=170667a&w=0&h=sq212OvfcxEJE9fGsjQrLO5gcOSSfKlBksaYZdqsBkI=">
+</div>
+
+<div class="image-box">
+<img src="https://picstatio.com/large/374eb7/gym-girl-model-exercise.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://us.123rf.com/450wm/chesterf/chesterf1604/chesterf160400005/55578090-woman-doing-workout-in-the-gym-climber-exercise-closeup.jpg?ver=6">
+</div>
+
+<div class="image-box">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX5V-N_7e3v0hhq7tXiGvLJhcysIyo8GcWsA&usqp=CAU">
+</div>
+
+<div class="image-box">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAaDJsEl_hyHokEvurrNtJrLSkEhXtQ7O8w&usqp=CAU">
+</div>
+
+<div class="image-box">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9raP8vgwPUaPaQ1z8T9hX9sYQHOpSIExarA&usqp=CAU">
+</div>
+
+<div class="image-box">
+<img src="https://cdn.wallpapersafari.com/93/76/yZECMh.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://w0.peakpx.com/wallpaper/429/311/HD-wallpaper-sports-fitness-brunette-girl-model-ponytail-woman.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://p4.wallpaperbetter.com/wallpaper/223/673/70/sports-fitness-girl-ponytail-wallpaper-preview.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://images.contentstack.io/v3/assets/blt45c082eaf9747747/bltd64d7b848144838a/5de0ba657f2c7a6301df3f4f/CUT_training.jpg?format=pjpg&auto=webp&quality=76&width=1232">
+</div>
+
+<div class="image-box">
+<img src="https://evofitness.ch/wp-content/uploads/2019/07/how-long-should-i-workout-evo-1200x675.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://www.shape.com/thmb/XPBGaOMCdBTWizN8VjvtnPeJORo=/1500x1125/smart/filters:no_upscale():focal(999x482:1001x484)/squat-GettyImages-1004449544-2000-f72d11a72ed84c1885ccbeed1ccaa3c1.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://cdn.99images.com/photos/wallpapers/girls/girls%20android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-99nq9.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://cdn.99images.com/photos/wallpapers/hd-wallpapers/hd-wallpapers%20android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-szdvh.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8SoM4-Kk2U17mKA5s_1Q-C5nkHiYpZ75BpaitqTgI9Qs7LMk-YTzY7tN8CGlocArrch0&usqp=CAU">
+</div>
+
+<div class="image-box">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAlrCr-PDT2AbKQJVMusVW3D53HRJwakKlOw&usqp=CAU">
+</div>
+
+<div class="image-box">
+<img src="https://s2.best-wallpaper.net/wallpaper/1920x1440/1605/Weight-training-fitness-curly-hair-girl_1920x1440.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://img.freepik.com/premium-photo/fitness-woman-with-training-machine-gym_66899-2087.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://thumbs.dreamstime.com/b/athletic-girl-dressed-black-sports-top-tights-sitting-bench-gym-athletic-girl-dressed-black-sports-top-140594860.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://w0.peakpx.com/wallpaper/71/617/HD-wallpaper-gym-girl-gym-girls.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWdsWXUrbQs1qDHqYHRONNiRNnY_zC27ndw&usqp=CAU">
+</div>
+
+<div class="image-box">
+<img src="https://www.10wallpaper.com/wallpaper/1920x1080/1609/Beautiful_girl_gym_workout-Fitness_photo_wallpaper_1920x1080.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://themepack.me/i/c/749x467/media/g/1728/fitness-girl-theme-rw8.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://media.istockphoto.com/photos/beautiful-fitness-woman-lifting-dumbbells-picture-id639898656?b=1&k=20&m=639898656&s=170667a&w=0&h=C-yIyq0YVvhh73Eke2-wV1tS1PqXKkUxsuGXKNhck9k=">
+</div>
+
+<div class="image-box">
+<img src="https://media.istockphoto.com/photos/sporty-girl-doing-weight-exercises-with-assistance-of-personal-picture-id639897878?b=1&k=20&m=639897878&s=170667a&w=0&h=fho9glQItPu6Q5xGY-RgM8JUgjrPFNob8CqguIq37gE=">
+</div>
+
+<div class="image-box">
+<img src="https://media.istockphoto.com/photos/group-of-people-at-the-gym-in-a-stretching-class-picture-id593330506?k=20&m=593330506&s=612x612&w=0&h=YvdX7KEOcDsLZyl6N7fxTxzP7PEfHsfnBLl3H6tP-g4=">
+</div>
+
+<div class="image-box">
+<img src="https://us.123rf.com/450wm/antoniodiaz/antoniodiaz1312/antoniodiaz131200003/24381958-pretty-girl-working-out-in-a-treadmill-at-the-gym-and-smiling.jpg?ver=6">
+</div>
+
+<div class="image-box">
+<img src="https://www.crushpixel.com/big-static7/preview4/pretty-girl-workout-gym-82459.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://thumbs.dreamstime.com/b/running-gym-group-young-people-treadmill-30717981.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://image.shutterstock.com/image-photo/fitness-girl-exercising-barbell-gym-260nw-507217105.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://image.cnbcfm.com/api/v1/image/105999935-1562097549646sport-stretching-leisure-hobby-woman-strong-exercise-workout-gym-weightlifting_t20_v7r7a7.jpg?v=1594825333&w=929&h=523">
+</div>
+
+
+</div>
+</div>
+</body>
+</html>
+

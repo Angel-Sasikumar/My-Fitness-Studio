@@ -1,0 +1,96 @@
+<html>
+    <head>
+        <title>Angel's Fitness Studio</title>
+        <style>
+*
+{
+   margin: 0; 
+   padding: 0;
+}
+.container
+{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://media.istockphoto.com/photos/fitness-equipment-on-the-floor-at-the-gym-picture-id1287504319?k=20&m=1287504319&s=612x612&w=0&h=E7-KZIILC2RFyHqkgJfgG6QTw5JCOH32Tq8qsmQad3g=);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left: 2%;
+    padding-right: 8%;
+    box-sizing: border-box;
+}
+.header
+{
+    height: 15%;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+}
+.nav
+{
+    text-align: center;
+    flex: 1;
+}
+.nav a
+{
+    padding: 2px 5px ;
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.nav a:hover
+{
+    color: white;
+    background-color: black;  
+}
+.btn
+{
+    cursor: pointer;
+    color: black;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 5px 20px;
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+    margin: 40px 5px;
+    border-radius: 15px;
+}
+a
+{
+    text-decoration: none;
+}
+.content
+{
+    text-align: center;
+    margin: 10%;
+}
+.content h1
+{
+    font-size: 50px;
+    color: white;
+}
+</style>
+    </head>
+<body>
+    <div class="container">
+    <div class="header">
+        <img src="https://www.pngall.com/wp-content/uploads/2018/04/Gym-Free-Download-PNG-180x180.png" width="70" height="50">
+        <div class="nav">
+            <a href="My Gym.html">Home</a>
+            <a href="My Gym Packages.html">Packages</a>
+            <a href="My Gym Gallery.html">Gallery</a>
+            <a href="My Gym About Us.html">About Us</a>
+	    <a href="Gregistration.html">Register</a>
+        </div>
+        <button class="btn"><a href="My Gym Login.html">Log In</a></button>
+    </div>
+    <div class="content">
+        <h1><i>Angel's <br> Fitness Studio</i></h1>
+    </div>
+ </div>
+</body>
+</html>

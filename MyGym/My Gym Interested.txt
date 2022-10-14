@@ -1,0 +1,193 @@
+<html>
+    <head>
+<meta charset="UTF-8">
+	 <meta http-equip="X-UA-Compatible" content="IE=edge">
+	 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	 <link rel="stylesheet" href="style.css">
+     <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap' rel="stylesheet">
+	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+     <script src="https://kit.fontawesome.com/0885571a89.js" crossorigin="anonymous"></script>
+        <title>Interested</title>
+     </head>
+<style>
+*
+{
+   margin: 0; 
+   padding: 0;
+}
+.container
+{
+    width: 100%;
+    height: 100%;
+    padding-left: 2%;
+    padding-right: 8%;
+    box-sizing: border-box;
+}
+.header
+{
+    height: 15%;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+}
+.nav
+{
+    text-align: center;
+    flex: 1;
+}
+.nav a
+{
+    padding: 5px 15px ;
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.nav a:hover
+{
+    color: white;
+    background-color: black;
+    
+}
+.btn
+{
+    cursor: pointer;
+    color: black;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 5px 20px;
+    border: 1px solid black;
+    background: transparent;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    margin: 40px 5px;
+    border-radius: 15px;
+}
+#grid
+{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+padding-left:30px;
+text-align:center;
+}
+#b
+{
+width:450px;
+height:450px;
+float:right;
+margin-right:15px;
+margin-left:30px;
+border:2px solid red;
+}
+#contant
+{
+width: 700px;
+height: 700px;
+border: 2px solid white;
+background-color: white;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+}
+table,th,td
+{
+border:2px ;
+text-align:center;
+font-size: 20px;
+}
+th
+{
+padding:10px;
+background-color:Orange;
+}
+td
+{
+padding:10px;
+background-color:beige;
+}
+td:hover
+{
+background-color:pink;
+}
+p
+{ 
+Font-size:30px;
+text-align:center;
+}
+
+div.relative
+{
+position:relative;
+left:350px;
+right:500px;
+border:3px ;
+}
+</style>
+<body>
+    <div class="container">
+    <div class="header">
+        <img src="https://www.pngall.com/wp-content/uploads/2018/04/Gym-Free-Download-PNG-180x180.png" width="70" height="50">
+        <div class="nav">
+            <a href="My Gym.html">Home</a>
+            <a href="My Gym Packages.html">Packages</a>
+            <a href="My Gym Gallery.html">Gallery</a>
+            <a href="My Gym About Us.html">About Us</a>  
+<a href="My Gym Registration.html">Register</a>
+</div>
+<button class="btn"><a href="My Gym Login.html">LOGIN</a></button>
+</div>
+<br><br><br><br><br><br>
+<p><b>
+<div class="relative">
+<table>
+<tr>
+<th>Packages</th>
+<th>Total Fee</th>
+<th>1st Payment</th>
+<th>2nd Payment</th>
+<th>3rd Payment</th>
+</tr>
+<tr>
+<td>Trim</td>
+<td>25,998/-</td>
+<td>12,999/-</td>
+<td>6,499.5/-</td>
+<td>6,499.5/-</td>
+</tr>
+<tr>
+<td>General Package</td>
+<td>16,998/-</td>
+<td>8,499/-</td>
+<td>4249.5/-</td>
+<td>4249.5/-</td>
+</tr>
+<tr>
+<td>Angel's Pass</td>
+<td>9,000/-</td>
+<td>4,500/-</td>
+<td>2,250/-</td>
+<td>2,250/-</td>
+</tr>
+<tr>
+<td>Angel's Advanced</td>
+<td>17,998/-</td>
+<td>8,999/-</td>
+<td>4,499.5/-</td>
+<td>4,499.5/-</td>
+</tr>
+</table>
+</b></p>
+</div>
+<br><br><br><br>
+<p>
+<a href="https://www.phonepe.com/">For Payment options Chick here...</a>
+</p>
+<br><br><br><br><br><br><br><br>
+</body>
+<footer>
+Copyright © 2022 Angel'sfitness.in all rights reserved by Fitness One Group India Limited
+</footer>
+</html>

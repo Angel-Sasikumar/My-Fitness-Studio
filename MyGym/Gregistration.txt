@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<head>
+<title>My Gym Register Form</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<style>
+body
+  {
+        background-image:url("https://i.pinimg.com/736x/4c/c8/b1/4cc8b1f71fc788aa146a33704bed9cc3.jpg");
+        background-repeat:no-repeat;
+        background-size:cover;
+        background-position:cover;
+        background-attachment:scroll;
+        background-color:beige;
+        font-size:18px;
+        font-weight:bold;
+color:white;
+  }
+Input,button
+{
+height:25px;
+width:200px;
+font-style:italic;
+border-radius:10px;
+border:2px solid blue;
+background-color:beige;
+margin-left:80px;
+}
+a
+{
+text-decoration:none;
+color:black;
+}
+button:hover
+{
+background-color:black;
+color:white;
+}
+
+h1
+  {
+        color:white;
+        text-align:center;
+  }
+
+</style>
+<body>
+
+<div class="box">
+<h1>
+Angel's Fitness Studio
+</h1><br><br>
+        <form name="myform2" action="Gregistration.php" method="POST">
+
+            <pre>Username	:  <input type="text" name="uname" placeholder="Enter Username" required=""></pre><br>
+
+            <pre>Age		:  <input type="text" name="age" placeholder="Enter Age" required=""></pre><br>
+
+            <pre>Gender		:  <input type="text" name="gender" placeholder="Enter Gender" required=""></pre><br>
+
+ 	    <pre>Contact		:  <input type="text" name="contact" placeholder="Enter Mobile number" required=""></pre><br>
+
+            <pre>Email		:  <input type="email" name="email" placeholder="Enter Email id" required=""></pre><br>
+
+	    <pre>Address		:  <input type="text" name="address" placeholder="Enter your Address" required=""></pre><br>
+
+  	    <pre>Pincode		:  <input type="text" name="pincode" placeholder="Enter your Pincode" required=""></pre><br>
+
+            <pre>Password	:  <input type="password" name="password1" placeholder="Enter Password" required=""></pre><br>
+
+            <pre>Retype Password :  <input type="password" name="password2" placeholder="Re-Enter Password" required=""></pre><br>
+
+            <button input type="submit" name="Register" method="POST" action="" value="Register"><b>Register</b></button>
+
+            <br><br>
+            
+        </form>
+        
+    </div>
+
+</body>
+</head>
+</html>
